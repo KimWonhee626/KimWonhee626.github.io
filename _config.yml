@@ -2,8 +2,8 @@ title:              KimWonhee626
 email:              kwh7739@gmail.com
 description:        Study Blog
 author:             KimWonhee
-baseurl:            "https://KimWonhee626.github.io"
-url:                "https://KimWonhee626.github.io"
+baseurl:            /kimwonhee626.github.io
+url:                https://kimwonhee626.github.io
 
 # Social Profiles
 twitter_username:   SBootstrap
